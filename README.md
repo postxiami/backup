@@ -5,8 +5,8 @@
 # 使用
 本机安装虾米桌面客户端并登陆
 
-[](first.png)
+![first](first.png)
 
-[](second.png)
+![second](second.png)
 
-[](wait.png)
+![wait](wait.png)
