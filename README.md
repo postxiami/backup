@@ -5,8 +5,11 @@
 # 使用
 本机安装虾米桌面客户端并登陆
 
+识别到具体收藏数量
 ![first](first.png)
 
+填入要备份到的文件夹
 ![second](second.png)
 
+等待备份完毕
 ![wait](wait.png)
