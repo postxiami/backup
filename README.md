@@ -11,7 +11,7 @@
 
 #### 虾米客户端
 - [Mac](https://gxiami.alicdn.com/xiami-desktop/update/XiamiMac-05131024-070508.dmg)
-- [Windows]](https://gxiami.alicdn.com/xiami-desktop/update/%E8%99%BE%E7%B1%B3%E9%9F%B3%E4%B9%90-7.3.0-x86-1225.exe)
+- [Windows](https://gxiami.alicdn.com/xiami-desktop/update/%E8%99%BE%E7%B1%B3%E9%9F%B3%E4%B9%90-7.3.0-x86-1225.exe)
 
 
 识别到具体收藏数量
