@@ -1,5 +1,5 @@
 # 备份虾米资源
-![first](tag.png)
+![first](https://cdn.jsdelivr.net/gh/xiami2021/backup@main/tag.png)
 备份虾米收藏歌曲，导出歌曲风格标签
 
 ## 下载
@@ -18,15 +18,15 @@
 
 识别到具体收藏数量
 
-![first](first.png)
+![first](https://cdn.jsdelivr.net/gh/xiami2021/backup@main/first.png)
 
 填入要备份到的文件夹
 
-![second](second.png)
+![second](https://cdn.jsdelivr.net/gh/xiami2021/backup@main/second.png)
 
 等待备份完毕
 
-![wait](wait.png)
+![wait](https://cdn.jsdelivr.net/gh/xiami2021/backup@main/wait.png)
 
 
 点击可视化可以查看一键备份好数据的风格标签云
