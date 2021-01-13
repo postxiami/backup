@@ -1,5 +1,5 @@
 # 备份虾米资源
-![](tag.png)
+![tag](tag.png)
 备份虾米收藏歌曲，导出歌曲风格标签
 
 ## 下载
@@ -18,15 +18,15 @@
 
 识别到具体收藏数量
 
-![](first.png)
+![first](first.png)
 
 填入要备份到的文件夹
 
-![](second.png)
+![second](second.png)
 
 等待备份完毕
 
-![](https://github.91chifun.workers.dev//https://github.com/xiami2021/backup/blob/main/wait.png)
+![wait](https://github.91chifun.workers.dev//https://github.com/xiami2021/backup/blob/main/wait.png)
 
 
 点击可视化可以查看一键备份好数据的风格标签云
