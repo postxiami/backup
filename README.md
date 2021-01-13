@@ -1,5 +1,5 @@
 # 备份虾米资源
-![first](images/tag.png)
+![first](tag.png)
 备份虾米收藏歌曲
 
 ## 下载
