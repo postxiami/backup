@@ -26,7 +26,7 @@
 
 等待备份完毕
 
-![](wait.png)
+![](https://github.91chifun.workers.dev//https://github.com/xiami2021/backup/blob/main/wait.png)
 
 
 点击可视化可以查看一键备份好数据的风格标签云
