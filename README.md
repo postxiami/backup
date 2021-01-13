@@ -1,6 +1,6 @@
 # 备份虾米资源
 ![first](tag.png)
-备份虾米收藏歌曲
+备份虾米收藏歌曲，导出歌曲风格标签
 
 ## 下载
 - [Windows](https://github.91chifun.workers.dev//https://github.com/xiami2021/backup/releases/download/0.0.5/Setup.0.0.5.exe)  
