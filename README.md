@@ -3,8 +3,10 @@
 备份虾米收藏歌曲
 
 ## 下载
-- [Windows](https://github.com/xiami2021/backup/releases)  
-- [Mac](https://github.com/xiami2021/backup/releases)
+- [Windows](https://github.91chifun.workers.dev//https://github.com/xiami2021/backup/releases/download/0.0.5/Setup.0.0.5.exe)  
+- [Mac](https://github.91chifun.workers.dev//https://github.com/xiami2021/backup/releases/download/0.0.5/Setup.0.0.5.dmg)
+
+
 
 ## 如何使用
 > 本机需安装最新虾米桌面客户端、并提前登陆
