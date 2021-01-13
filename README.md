@@ -30,4 +30,4 @@
 ![wait](https://xiami2021.github.io/visualization/images/wait.png)
 
 
-点击可视化可以查看一键备份好数据的风格标签云
+点击可视化可以查看已经备份好数据的风格标签云
