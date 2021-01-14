@@ -1,7 +1,18 @@
 # 备份虾米资源
-![tag](tag.png)  
+![](https://img.shields.io/github/v/release/xiami2021/backup.svg)
+![](https://img.shields.io/github/last-commit/xiami2021/backup)
+![](https://img.shields.io/github/issues/xiami2021/backup)
 
 备份虾米收藏歌曲，导出歌曲风格标签
+
+## 功能
+- [x] 备份收藏歌曲音频资源
+- [x] 收藏歌曲标签可视化
+- [x] 导出收藏歌曲原始数据
+- [] 备份其他类型的收藏数据
+
+## 标签云
+![tag](tag.png)  
 
 ## 下载
 - [Windows](https://github.91chifun.workers.dev//https://github.com/xiami2021/backup/releases/download/0.0.5/Setup.0.0.5.exe)  
