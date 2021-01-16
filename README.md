@@ -14,6 +14,7 @@
 ![tag](tag.png)  
 
 ## 下载
+用迅雷\离线下载可能会快一点
 - [Windows](https://github.91chifun.workers.dev//https://github.com/xiami2021/backup/releases/download/0.0.6/Setup.0.0.6.exe)  
 - [Mac](https://github.91chifun.workers.dev//https://github.com/xiami2021/backup/releases/download/0.0.6/0.0.6.dmg)
 
