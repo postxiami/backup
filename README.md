@@ -21,24 +21,4 @@
 
 
 ## 如何使用
-> 本机需安装最新虾米桌面客户端、并提前登陆
-
-#### 虾米最新客户端
-- [Mac](https://gxiami.alicdn.com/xiami-desktop/update/XiamiMac-05131024-070508.dmg)
-- [Windows](https://gxiami.alicdn.com/xiami-desktop/update/%E8%99%BE%E7%B1%B3%E9%9F%B3%E4%B9%90-7.3.0-x86-1225.exe)
-
-
-识别到具体收藏数量
-
-![first](first.png)
-
-填入要备份到的文件夹
-
-![second](second.png)
-
-等待备份完毕
-
-![wait](https://xiami2021.github.io/visualization/images/wait.png)
-
-
-点击可视化可以查看已经备份好数据的风格标签云
+> 输入你的虾米数字ID https://www.xiami.com/user/你的ID
