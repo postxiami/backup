@@ -14,8 +14,8 @@
 ![tag](tag.png)  
 
 ## 下载
-- [Windows](https://github.91chifun.workers.dev//https://github.com/xiami2021/backup/releases/download/0.0.5/Setup.0.0.5.exe)  
-- [Mac](https://github.91chifun.workers.dev//https://github.com/xiami2021/backup/releases/download/0.0.5/Setup.0.0.5.dmg)
+- [Windows](https://github.91chifun.workers.dev//https://github.com/xiami2021/backup/releases/download/0.0.6/Setup.0.0.6.exe)  
+- [Mac](https://github.91chifun.workers.dev//https://github.com/xiami2021/backup/releases/download/0.0.6/0.0.6.dmg)
 
 
 
