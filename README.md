@@ -27,5 +27,7 @@
 
 ## 如何使用
 > 输入你的虾米数字ID 
-> https://www.xiami.com/user/
-> 链接尾部的数字
+>
+> https://www.xiami.com/user/xxxx
+>
+> xxxx链接尾部的数字 就是你的虾米ID
