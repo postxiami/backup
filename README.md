@@ -26,4 +26,6 @@
 
 
 ## 如何使用
-> 输入你的虾米数字ID https://www.xiami.com/user/你的ID
+> 输入你的虾米数字ID 
+> https://www.xiami.com/user/
+> 链接尾部的数字
