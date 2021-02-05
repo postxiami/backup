@@ -31,8 +31,10 @@
 ## 如何使用
 
 增加本地Host解析
-- Windows: C:\Windows\System32\drivers\etc\hosts  
-- Mac: /etc/hosts
+### Windows
+`C:\Windows\System32\drivers\etc\hosts`
+#### Mac
+/etc/hosts`
 
 ``` 
 203.119.244.126 emumo.xiami.com
