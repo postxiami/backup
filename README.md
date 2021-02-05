@@ -30,9 +30,11 @@
 
 ## 如何使用
 
-> Hosts
-> C:\Windows\System32\drivers\etc\hosts
-> 203.119.244.126 emumo.xiami.com
+Hosts增加
+``` 
+C:\Windows\System32\drivers\etc\hosts
+
+203.119.244.126 emumo.xiami.com
 203.119.212.1   emumo.xiami.com
 203.119.211.255 emumo.xiami.com
 
@@ -41,7 +43,7 @@
 117.24.3.176    music.xiami.com
 117.24.3.175    music.xiami.com
 1.81.1.144      music.xiami.com
->
+``` 
 
 
 > 输入你的虾米数字ID 
