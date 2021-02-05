@@ -30,13 +30,11 @@
 
 ## 如何使用
 
-Hosts增加
+增加本地Host解析
 - Windows: C:\Windows\System32\drivers\etc\hosts  
 - Mac: /etc/hosts
 
 ``` 
-
-
 203.119.244.126 emumo.xiami.com
 203.119.212.1   emumo.xiami.com
 203.119.211.255 emumo.xiami.com
