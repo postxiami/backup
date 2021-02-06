@@ -54,7 +54,7 @@
 >
 > https://www.xiami.com/user/xxxx
 >
-> xxxx链接尾部的数字 就是你的虾米ID
+> xxxx链接尾部的数字 就是你的虾米ID  
 > 等待备份完毕
 
 ### 音源备份
