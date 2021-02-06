@@ -48,11 +48,16 @@
 1.81.1.144      music.xiami.com
 ``` 
 
+### 数据备份
 
 > 输入你的虾米数字ID 
 >
 > https://www.xiami.com/user/xxxx
 >
 > xxxx链接尾部的数字 就是你的虾米ID
-> 
+> 等待备份完毕
+
+### 音源备份
+> 点击【批量备份收藏】
 > 备份文件夹用英文文件名 如: F:\allsong
+
