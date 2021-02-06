@@ -30,8 +30,9 @@
 
 ## 如何使用
 
-增加本地Host解析
-### Windows
+### 本地解析
+增加本地Host解析 （备份歌单需要该步骤，如不需要可忽略）
+#### Windows
 `C:\Windows\System32\drivers\etc\hosts`
 #### Mac
 `/etc/hosts`
