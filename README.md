@@ -49,6 +49,11 @@
 117.24.3.176    music.xiami.com
 117.24.3.175    music.xiami.com
 1.81.1.144      music.xiami.com
+
+# 02-07 新增
+203.119.169.83  h5api.m.xiami.com
+203.119.169.158 h5api.m.xiami.com
+203.119.169.246 h5api.m.xiami.com
 ``` 
 
 ### 数据备份
